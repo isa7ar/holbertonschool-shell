@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%s\n' '"(Ôo)'\''
+printf "\042(Ôo)\047\n"
